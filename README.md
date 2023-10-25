@@ -9,8 +9,8 @@ While this is a simplified version, it can serve as a foundation for more advanc
 
 - **List Books**: Display a list of all books in the library catalog, including their availability status.
 
-- **Check Out Books**: Allow users to check out books, updating their availability status.
+- **Add Users**:  providing user IDs and names.
 
-- **Add Users**: Register users by providing user IDs and names.
+- - **Check Out Books**: Allow users to check out books, updating their availability status.
 
 - **User-friendly Interface**: A simple, user-friendly command-line interface for managing the library.
