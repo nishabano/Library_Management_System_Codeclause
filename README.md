@@ -1,6 +1,6 @@
 # Library_Management_System_Codeclause
 The Library Management System (LMS) is a Python-based console application that simplifies the management of a library's catalog and user interactions.
-This LMS provides basic functionality for adding books, listing books, checking out books, and adding users.
+This LMS provides basic functionality for adding books, listing books,adding users and checking out books.
 While this is a simplified version, it can serve as a foundation for more advanced librarymanagement systems.
 
 ## Features
